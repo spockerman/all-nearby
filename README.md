@@ -61,8 +61,11 @@ Se tiver alguma dúvida ou sugestão, entre em contato:
 ## Screenshot of application
 
 ![IMG_2863](https://github.com/user-attachments/assets/eb8e06e2-eeef-47a0-9ffe-e8a1bdf3b15e)
+
 ![IMG_2864](https://github.com/user-attachments/assets/8ac8396c-483e-4275-ab6e-d47ad920d5ff)
+
 ![IMG_2865](https://github.com/user-attachments/assets/20c3ec19-1277-4768-b79a-130911caa80b)
+
 ![IMG_2866](https://github.com/user-attachments/assets/88beb570-131b-41d0-b65d-8fd973673cb8)
 
 
