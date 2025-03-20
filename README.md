@@ -60,10 +60,10 @@ Se tiver alguma dúvida ou sugestão, entre em contato:
 
 ## Screenshot of application
 
-![ini](https://github.com/user-attachments/assets/bbb28e32-12fd-481c-9f00-c1af19319a37)
-![main](https://github.com/user-attachments/assets/e2dc3dea-de12-4dd4-ab94-3754336d910a)
-![main2](https://github.com/user-attachments/assets/07934096-fa13-47cf-bc3c-ddd5513e5b1b)
-![details](https://github.com/user-attachments/assets/79fdb3b5-a4db-4703-a4ab-3e57075dac3f)
+![IMG_2863](https://github.com/user-attachments/assets/eb8e06e2-eeef-47a0-9ffe-e8a1bdf3b15e)
+![IMG_2864](https://github.com/user-attachments/assets/8ac8396c-483e-4275-ab6e-d47ad920d5ff)
+![IMG_2865](https://github.com/user-attachments/assets/20c3ec19-1277-4768-b79a-130911caa80b)
+![IMG_2866](https://github.com/user-attachments/assets/88beb570-131b-41d0-b65d-8fd973673cb8)
 
 
 
