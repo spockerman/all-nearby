@@ -58,3 +58,11 @@ Se tiver alguma dúvida ou sugestão, entre em contato:
 - Email: suporte@cuponsapp.com
 - GitHub: [https://github.com/seuusuario/cuponsapp](https://github.com/seuusuario/cuponsapp)
 
+## Screenshot of application
+![IMG_2863](https://github.com/user-attachments/assets/bb6b4a58-8fb3-4437-8459-5025f6e298ff)
+![IMG_2864](https://github.com/user-attachments/assets/10e6d8a6-ffe4-4268-8e1b-9b2a748b5e2a)
+![IMG_2865](https://github.com/user-attachments/assets/b4926d2c-1f60-4612-9cbb-7e6dd32a9dfc)
+![IMG_2866](https://github.com/user-attachments/assets/40515a58-a7bd-4a61-a174-a79cc0a37d74)
+
+
+
