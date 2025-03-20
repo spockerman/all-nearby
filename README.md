@@ -59,10 +59,11 @@ Se tiver alguma dúvida ou sugestão, entre em contato:
 - GitHub: [https://github.com/seuusuario/cuponsapp](https://github.com/seuusuario/cuponsapp)
 
 ## Screenshot of application
-![IMG_2863](https://github.com/user-attachments/assets/bb6b4a58-8fb3-4437-8459-5025f6e298ff)
-![IMG_2864](https://github.com/user-attachments/assets/10e6d8a6-ffe4-4268-8e1b-9b2a748b5e2a)
-![IMG_2865](https://github.com/user-attachments/assets/b4926d2c-1f60-4612-9cbb-7e6dd32a9dfc)
-![IMG_2866](https://github.com/user-attachments/assets/40515a58-a7bd-4a61-a174-a79cc0a37d74)
+
+![ini](https://github.com/user-attachments/assets/bbb28e32-12fd-481c-9f00-c1af19319a37)
+![main](https://github.com/user-attachments/assets/e2dc3dea-de12-4dd4-ab94-3754336d910a)
+![main2](https://github.com/user-attachments/assets/07934096-fa13-47cf-bc3c-ddd5513e5b1b)
+![details](https://github.com/user-attachments/assets/79fdb3b5-a4db-4703-a4ab-3e57075dac3f)
 
 
 
